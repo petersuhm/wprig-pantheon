@@ -1,0 +1,7 @@
+{
+    "theme": {
+        "slug": "wp-rig-pantheon",
+        "name": "WP Rig Pantheon",
+        "PHPNamespace": "Branch\\WP_Rig"
+      }
+}
